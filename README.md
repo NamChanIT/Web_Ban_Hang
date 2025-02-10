@@ -14,13 +14,13 @@ Giỏ hàng: Thêm sản phẩm vào giỏ hàng, xem lại và tiến hành tha
 Quản lý đơn hàng: Xem lịch sử đơn hàng và theo dõi trạng thái các đơn hàng hiện tại.
 Bảng điều khiển quản trị: Quản lý sản phẩm, người dùng và đơn hàng thông qua giao diện dành riêng cho quản trị viên.
 # CÔNG NGHỆ SỬ DUNG
-Frontend:
+# Frontend:
 Angular
 HTML/CSS
 TypeScript
-Backend:
+# Backend:
 Spring Boot
 Spring Security
 Spring Data JPA
-Database:
+# Database:
 MySQL
